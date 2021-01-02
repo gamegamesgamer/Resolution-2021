@@ -2,7 +2,7 @@
  Complete Roadmap for Data Science with Python:
 
 
-Week 1
+# Week 1
 Basics of Data Science Flow,
 Anaconda Installation,
 Intro to Jupyter Notebook,
@@ -18,7 +18,7 @@ Subsetting Dataframes in Pandas,
 Data Aggregation using Group By, Pivot and Melt
 
  
-Week 2
+# Week 2
 Types of Variables,
 Data Visualizations (Scatter plot, Histogram, Bar plots, Line plots, Heat maps),
 Data Centricity (Mean, Modes, Median, STD, Variance, Interquantile Range),
@@ -34,7 +34,7 @@ Correlation Matrix,
 Hands-on Assignment of EDA
 
  
-Week 3
+# Week 3
 What is Probability,
 Conditional Probability (Disjoint Events + General Addition Rule),
 Dependence vs Independence,
@@ -50,7 +50,7 @@ Gradient Descent, Ordinary Least Squares,
 Project-1
 
  
-Week 4
+# Week 4
 Multivariate Regression,
 Residual Plots, R square, Adjusted R Square,
 Polynomial Regression,
@@ -66,7 +66,7 @@ ROC Curve, AUC, TPR, FPR,
 Project-2
 
  
-Week 5
+# Week 5
 Decision Trees,
 Information Gain, Gini Index, Chi Square,
 Random Forest,
@@ -82,7 +82,7 @@ Elbow Analysis, Internal Indexes, Silhouette Score,
 Project-3
 
  
-Week 6
+# Week 6
 External Indexes, Adjusted Rand Index,
 Cluster Profiling using Radar Chart,
 Feature Scaling,
@@ -98,7 +98,7 @@ Apriori Algorithm,
 Support, Confidence, Lift, Leverage, Conviction
 
 
-Week 7
+# Week 7
 Visualizing Association Rules,
 Network Graph Theory,
 Social Network Analysis by Network Graph,
@@ -114,7 +114,7 @@ Flask App Introduction,
 Model Deployment on Flask App
 
  
-Week 8
+# Week 8
 Project & Presentation,
 Self learning Path Guidance
 
